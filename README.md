@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balaji-KM
-- 👀 I’m interested in malware analysis
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
