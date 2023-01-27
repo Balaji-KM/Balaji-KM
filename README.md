@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Balaji-KM
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently full stack development
+
 
 
 <!---
